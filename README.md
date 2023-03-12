@@ -4,15 +4,6 @@
 
 This project was made for bootcamp students in a full stack development bootcamp that are going through their prework. It covers notes on HTML, CSS, Git, and JavaScript. It also has interactivity with it through Chrome DevTools.
 
-## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
-
 ## Installation
 
 N/A
